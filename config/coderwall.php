@@ -8,7 +8,7 @@
 | Set a username here to pull by default.
 |
 */
-$config[ 'username' ] = 'joakley77';
+$config[ 'username' ] = '';
 
 /*
 |--------------------------------------------------------------------------
